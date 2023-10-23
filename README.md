@@ -4,18 +4,18 @@
 
 #links
 
-[AmirhosseinSafari](/AmirhosseinSafari/dist)
+[AmirhosseinSafari](./AmirhosseinSafari/dist)
 
-[AmirrezaAbasian](/AmirrezaAbasian/dist)
+[AmirrezaAbasian](./AmirrezaAbasian/dist)
 
-[HamedAbdollahzade](/HamedAbdollahzade/dist)
+[HamedAbdollahzade](./HamedAbdollahzade/dist)
 
-[MohammadGhorbani](/MohammadGhorbani/dist)
+[MohammadGhorbani](./MohammadGhorbani/dist)
 
-[MohammadParhizgar](/MohammadParhizgar/dist)
+[MohammadParhizgar](./MohammadParhizgar/dist)
 
-[NafiseCharmchi](/NafiseCharmchi/dist)
+[NafiseCharmchi](./NafiseCharmchi/dist)
 
-[RezaGholami](/RezaGholami/dist)
+[RezaGholami](./RezaGholami/dist)
 
-[SamaneGhazanfari](/SamaneGhazanfari/dist)
+[SamaneGhazanfari](./SamaneGhazanfari/dist)
