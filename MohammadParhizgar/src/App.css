@@ -1,0 +1,13 @@
+#root {
+  margin: 0 ;
+  padding: 0;
+}
+
+.direction{
+  direction: ltr;
+  text-align: left;
+}
+
+.direction2{
+  direction: rtl;
+}
